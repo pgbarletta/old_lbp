@@ -1,0 +1,10 @@
+[DEFAULT]
+grid_spacing = 0.5
+contiguous = false
+padding = 0.5
+profile = true
+contribution = atom
+
+[barrel]
+include_cylinder = 48.000  18.000  78.000   61.00  31.00  58.00 6.0
+include_cylinder = 66.000  21.500  59.000   54.00  12.00  79.00 5.0
